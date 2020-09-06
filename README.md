@@ -8,7 +8,7 @@
 - [Semi-Supervised Class Discovery](https://arxiv.org/abs/2002.03480)  Jeremy Nixon , Jeremiah Liu, David Berthelot, 2020
 - [Automatically Discovering And Learning New Visual Categories With Ranking Statistics](https://arxiv.org/abs/2002.05714) , Kai Han, Sylvestre-Alvise Rebuffi, Sebastien Ehrhardt, Andrea Vedaldi, Andrew Zisserman , ICLR 2020
 - [Toward Unsupervised, Multi-Object Discovery in Large-Scale Image Collections](https://arxiv.org/abs/2007.02662)  Huy V. Vo, Patrick Perez ,Jean Ponce, ECCV 2020
-- [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World] (https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe, 2020 
+- [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe, 2020 
 
 
 
