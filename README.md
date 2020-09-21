@@ -1,5 +1,6 @@
 # Automatic class discovery papers: 
 - [Discovering Object Categories in Image Collections](http://publications.csail.mit.edu/tmp/MIT-CSAIL-TR-2005-012.pdf)  Josef Sivic, Bryan C. Russell, Alexei A. Efros, Andrew Zisserman, William T. Freeman, 2005
+- [Discovering objects and their location in images](http://people.csail.mit.edu/billf/publications/Discovering_Objects.pdf), Sivic, J., Russell, B.C., Efros, A.A., Zisserman, A. and Freeman, W.T., 2005. ICCV.
 - [Unsupervised Object Class Discovery via Saliency-Guided Multiple Class Learning](https://www.cs.cmu.edu/~junyanz/projects/bMCL/cvpr12_bmcl.pdf)  Jun-Yan Zhu, Jiajun Wu , Yichen Wei , Eric Chang and Zhuowen Tu, CVPR 2012
 - [Unsupervised Object Discovery and Segmentation in Videos](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.661&rep=rep1&type=pdf) Samuel Schulter, Christian Leistner, Peter M Roth, Horst Bischof, BMVC 2013
 - [Unsupervised Object Discovery and Localization in the Wild: Part-Based Matching With Bottom-Up Region Proposals](https://openaccess.thecvf.com/content_cvpr_2015/html/Cho_Unsupervised_Object_Discovery_2015_CVPR_paper.html)  Minsu Cho, Suha Kwak, Cordelia Schmid, Jean Ponce, CVPR 2015
